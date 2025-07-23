@@ -13,7 +13,7 @@ A comprehensive data analysis project exploring patterns in addiction (smoking &
 
 ---
 
-## 🧪 Objectives
+##  Objectives
 
 - Understand addiction behaviors based on different personal and social attributes.
 - Use visual analytics to find patterns and correlations.
